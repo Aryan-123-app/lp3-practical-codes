@@ -1,6 +1,10 @@
-# LP3 Practical Codes
+# Practical Codes
 
 A collection of practical exercises for Design and Analysis of Algorithms (DAA), Information Retrieval (IR), Cyber Security and Digital Forensics (CSDF), and Machine Learning (ML). The repository contains standalone Python scripts, Java programs, and Jupyter notebooks; it is not one application and has no single build command.
+
+## Find this useful?
+
+If these practicals helped you learn a concept or saved you time, please give the repository a ⭐ star on [GitHub](https://github.com/Aryan-123-app/lp3-practical-codes). It takes a second, supports the project, and helps other students find these examples too. Thank you!
 
 ## Contents
 
